@@ -45,5 +45,5 @@ Please refer to the attached PDF document for the complete structured report.
 ## 🚀 Author
 
 **Kalyani M G**  
-Computer Science Engineering Student
+Computer Science Engineering Student.
 LBS INSTITUTE OF TECHNOLOGY FOR WOMEN
