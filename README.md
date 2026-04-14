@@ -1,6 +1,6 @@
 # Knowledge Know-How – My Technical Stack
 
-This repository contains my submission for **Task 8: Knowledge Know-How** powered by Ilmora.  
+This repository contains my submission for **Task 8: Knowledge Know-How**   
 The purpose of this project is to present the technologies, tools, and platforms I regularly use with practical understanding and real experience.
 
 ## 📌 About This Submission
